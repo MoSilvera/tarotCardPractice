@@ -1,0 +1,4 @@
+.tarotCard {
+    display: flex;
+    flex-flow: row wrap;
+}
